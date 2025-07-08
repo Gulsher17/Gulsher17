@@ -87,7 +87,7 @@ Welcome to my GitHub! I'm an experienced student leader,  <B>IT Support Analyst<
 
 - 📧 Email: cheemgul@sheridancollege.ca  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gulsher-cheema)  
-- 🧭 Location: Brampton, Ontario, Canada
+- 🧭 Location: Toronto, Ontario, Canada
 
 _“Driven by problem-solving, powered by curiosity.”_
 
