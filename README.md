@@ -14,6 +14,16 @@ Welcome to my GitHub! I'm an experienced student leader,  <B>IT Support Analyst<
 
 <hr>
 
+## 📈 Experience
+
+- **IT Support Analyst** – *United Van Lines (Canada) Ltd.* 
+- **Full Stack Developer** – *Samskrita Bharati*
+- **IBM Z Student Ambassador** – *IBM Z(2024-25)*  
+- **Chairperson** – *Board of Directors, Sheridan Student Union(2024-25)*  
+- **Leadership Bridge & Megabyte Mentor** – Guided first-year students in tech
+
+<hr>
+
 ## Key Skills & Tools
 
   <h4 style="color: #4CAF50;">Programming Languages:</h4>
@@ -55,15 +65,6 @@ Welcome to my GitHub! I'm an experienced student leader,  <B>IT Support Analyst<
 
 <hr>
 
-## 📈 Experience
-
-- **IT Support Analyst** – *United Van Lines (Canada) Ltd.* 
-- **Full Stack Developer** – *Samskrita Bharati*
-- **IBM Z Student Ambassador** – *IBM Z(2024-25)*  
-- **Chairperson** – *Board of Directors, Sheridan Student Union(2024-25)*  
-- **Leadership Bridge & Megabyte Mentor** – Guided first-year students in tech
-
-<hr>
 
 <!-- ## 🧩 Projects & Initiatives
 
