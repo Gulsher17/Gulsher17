@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Gulsher Cheema
+
+💻 Aspiring Full Stack Developer | ✈️ Amateur Pilot | 💼 Entrepreneur
 
 <!--
 **Gulsher17/Gulsher17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
